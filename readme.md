@@ -50,7 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HussienMaghrabi&theme=gotham)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=HussienMaghrabi&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=HussienMaghrabi&show_icons=true&locale=en&layout=compact&theme=gotham)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HussienMaghrabi&left_color=green&right_color=redhttps://visitor-badge.glitch.me/badge?page_id=HussienMaghrabi&left_color=green&right_color=red)
