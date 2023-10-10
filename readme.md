@@ -28,7 +28,7 @@
 
 ### A Student & Developer
 
-
+- 📄 Live [Portfolio][profile]
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
