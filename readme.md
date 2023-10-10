@@ -46,10 +46,10 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-![](https://github-readme-stats-nine-khaki.vercel.app/api?username=HussienMaghrabi&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=HussienMaghrabi&theme=gotham)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=HussienMaghrabi&show_icons=true&locale=en&layout=compact&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=HussienMaghrabi&show_icons=true&locale=en&layout=compact)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=HussienMaghrabi&left_color=green&right_color=redhttps://visitor-badge.glitch.me/badge?page_id=HussienMaghrabi&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=HussienMaghrabi&left_color=green&right_color=red)
