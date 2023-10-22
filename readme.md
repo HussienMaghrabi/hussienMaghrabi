@@ -46,7 +46,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=HussienMaghrabi&theme=gotham)
+<!--![](https://github-readme-stats.vercel.app/api?username=HussienMaghrabi&theme=gotham)-->
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=HussienMaghrabi&show_icons=true&locale=en&layout=compact)
