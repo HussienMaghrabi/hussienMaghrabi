@@ -28,7 +28,7 @@
 
 ### A Student & Developer
 
-- 📄 Live [Portfolio][profile]
+- 📄 Live [Portfolio][[https://h-maghrabi.tech/]
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
